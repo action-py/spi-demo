@@ -1,0 +1,10 @@
+RichManStrategy    
+                    抽象策略
+BestRichManStrategy     
+OrdinaryRichManStrategy
+BadRichManStrategy
+                    具体策略
+RichManContext
+                    策略上下文
+RichManDemo
+                    使用示例
